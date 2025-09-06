@@ -1,10 +1,12 @@
+# Nikhil Rajput
+
 # 🚗 Car Sales Analysis Dashboard (Power BI)
 
 This repository contains a Power BI dashboard for analyzing **Car Sales Data** across different manufacturers.  
 The dashboard provides insights into **sales performance, revenue, market value, and top models**.
 
 ## 📊 Dashboard Preview
-![Car Sales Dashboard](ccb70cb6-c2c9-4f88-84ce-fa92945d1bc8.png)
+![Car Sales Dashboard](https://github.com/NikhilRajput-98/Car_Sales/blob/main/Screenshot%202025-09-06%20154108.png)
 
 ## 🔎 Key Insights
 - **Units Sold:** 10.67K  
