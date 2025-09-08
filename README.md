@@ -6,7 +6,7 @@ This repository contains a Power BI dashboard for analyzing **Car Sales Data** a
 The dashboard provides insights into **sales performance, revenue, market value, and top models**.
 
 ## 📊 Dashboard Preview
-![Car Sales Dashboard](https://github.com/NikhilRajput-98/Car_Sales/blob/main/Screenshot%202025-09-06%20154108.png)
+![Car Sales Dashboard](https://ibb.co/YFbqX9J3)
 
 ## 🔎 Key Insights
 - **Units Sold:** 10.67K  
